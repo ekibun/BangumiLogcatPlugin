@@ -1,4 +1,4 @@
-package soko.ekibun.bangumi.plugins.main
+package soko.ekibun.bangumi.plugin.logcat.main
 
 import android.app.Activity
 import soko.ekibun.bangumi.plugins.ActivityPlugin
